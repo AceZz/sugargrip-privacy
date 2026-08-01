@@ -1,0 +1,10 @@
+title: SugarGrip
+url: https://sugargrip.github.io
+
+# ponytail: no theme — the stock GitHub themes stamp the repo owner into every
+# page footer. Two legal pages don't need more than _layouts/default.html.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
